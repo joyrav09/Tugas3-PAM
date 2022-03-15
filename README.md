@@ -11,7 +11,7 @@ expo init tugas-pam
 npm start
 ```
 ## Tampilan Home
-<img src="https://user-images.githubusercontent.com/56099222/158396033-dbbc0624-e4b8-48cc-ad83-11e5aa7ec626.jpeg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/56099222/158396033-dbbc0624-e4b8-48cc-ad83-11e5aa7ec626.jpeg" width="360" height="640" />
 
 ## Tampilan Detail
 ![WhatsApp Image 2022-03-15 at 20 36 27 (1)](https://user-images.githubusercontent.com/56099222/158396089-f99592c9-7fbe-4994-8d39-5e5e370d76e2.jpeg)

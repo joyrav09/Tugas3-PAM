@@ -292,7 +292,7 @@ const styles = StyleSheet.create({
 });
 ```
 ## Script Detail.js
-- Masalah : Pencarian tiket pesawat belum berfungi
+- Masalah : Pencarian tiket pesawat belum berfungsi.
 
 ```sh
 import { useRoute } from "@react-navigation/native";

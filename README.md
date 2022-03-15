@@ -1,6 +1,6 @@
-#Nama   : Joy Ravelo Tarigan
-#NIM    : 119140037
-#Kelas  : PAM RC
+# Nama   : Joy Ravelo Tarigan
+# NIM    : 119140037
+# Kelas  : PAM RC
 ## Buat Folder
 ```sh
 expo init tugas-pam
